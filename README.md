@@ -1,4 +1,4 @@
-# Contrutech Folha Pagamento
+# Construtech Folha Pagamento
 Repositório de um sistema para folha de pagamento de uma empresa fictícia como trabalho de faculdade.
 
 ## Detalhes do repositório
