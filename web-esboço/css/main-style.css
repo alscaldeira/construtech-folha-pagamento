@@ -1,0 +1,16 @@
+@font-face {
+    font-family: GrandfloraOne;
+    src: url("./fonts/Agrandir-Font-Family/Agrandir\ -\ Free\ For\ Personal\ Use/Agrandir-ThinItalic.otf");
+}
+
+body {
+    font-family: GrandfloraOne;
+    color: white;
+    font-size: 40px;
+    background-image: linear-gradient(to bottom left, #061bb0 , #7061de);
+}
+
+.center {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
