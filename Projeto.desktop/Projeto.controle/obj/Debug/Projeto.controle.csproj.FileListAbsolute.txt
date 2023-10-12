@@ -1,0 +1,14 @@
+c:\users\m12.m12-25\documents\visual studio 2017\Projects\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.controle.dll
+c:\users\m12.m12-25\documents\visual studio 2017\Projects\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.controle.pdb
+c:\users\m12.m12-25\documents\visual studio 2017\Projects\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.csprojResolveAssemblyReference.cache
+c:\users\m12.m12-25\documents\visual studio 2017\Projects\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.dll
+c:\users\m12.m12-25\documents\visual studio 2017\Projects\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.controle.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.Modelo.dll
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.Modelo.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.csproj.CopyComplete
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Debug\Projeto.controle.exe
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Debug\Projeto.controle.exe

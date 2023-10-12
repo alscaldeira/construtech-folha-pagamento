@@ -1,0 +1,9 @@
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Release\Projeto.controle.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Release\Projeto.Modelo.dll
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Release\Projeto.Modelo.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Release\Projeto.controle.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Release\Projeto.controle.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Release\Projeto.controle.csproj.CopyComplete
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Release\Projeto.controle.pdb
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\bin\Release\Projeto.controle.exe
+C:\Users\vboxuser\Downloads\Projeto.desktop\Projeto.desktop\Projeto.controle\obj\Release\Projeto.controle.exe
