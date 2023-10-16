@@ -1,0 +1,10 @@
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\bin\Debug\FolhaPagamentosSimplesWinForms.exe.config
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\bin\Debug\FolhaPagamentosSimplesWinForms.exe
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\bin\Debug\FolhaPagamentosSimplesWinForms.pdb
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.csproj.AssemblyReference.cache
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.Form1.resources
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.Properties.Resources.resources
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.csproj.GenerateResource.cache
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.exe
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\FolhaPagamentosSimplesWinForms\obj\Debug\FolhaPagamentosSimplesWinForms.pdb
