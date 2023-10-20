@@ -1,0 +1,13 @@
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\bin\Release\Projeto.Desktop.exe.config
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\bin\Release\Projeto.Desktop.exe
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\bin\Release\Projeto.Desktop.pdb
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.csprojAssemblyReference.cache
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.Properties.Resources.resources
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.csproj.GenerateResource.cache
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.exe
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.pdb
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\bin\Release\Projeto.Desktop.exe.manifest
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\bin\Release\Projeto.Desktop.application
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.exe.manifest
+C:\Users\Unip\source\repos\Sexta\Projeto.Desktop\Projeto.Desktop\obj\Release\Projeto.Desktop.application
