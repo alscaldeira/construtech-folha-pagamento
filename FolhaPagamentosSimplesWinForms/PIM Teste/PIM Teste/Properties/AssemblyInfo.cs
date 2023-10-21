@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("FolhaPagamentosSimplesWinForms")]
+[assembly: AssemblyTitle("PIM Teste")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FolhaPagamentosSimplesWinForms")]
+[assembly: AssemblyProduct("PIM Teste")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("331ba1b0-6193-4682-a158-a41578995263")]
+[assembly: Guid("a90168d9-ebae-4022-8022-a7540b6eefc4")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

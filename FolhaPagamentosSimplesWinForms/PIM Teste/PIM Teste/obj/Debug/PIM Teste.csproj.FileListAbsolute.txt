@@ -1,0 +1,5 @@
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\PIM TESTE\PIM Teste\PIM Teste\obj\Debug\PIM Teste.csproj.AssemblyReference.cache
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\PIM TESTE\PIM Teste\PIM Teste\obj\Debug\PIM_Teste.Form1.resources
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\PIM TESTE\PIM Teste\PIM Teste\obj\Debug\PIM_Teste.Properties.Resources.resources
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\PIM TESTE\PIM Teste\PIM Teste\obj\Debug\PIM Teste.csproj.GenerateResource.cache
+C:\Users\WIN\Desktop\PIM VisualStu\FolhaPagamentosSimplesWinForms\PIM TESTE\PIM Teste\PIM Teste\obj\Debug\PIM Teste.csproj.CoreCompileInputs.cache

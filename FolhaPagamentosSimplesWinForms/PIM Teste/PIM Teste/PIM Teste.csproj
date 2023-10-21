@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{331BA1B0-6193-4682-A158-A41578995263}</ProjectGuid>
+    <ProjectGuid>{A90168D9-EBAE-4022-8022-A7540B6EEFC4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>FolhaPagamentosSimplesWinForms</RootNamespace>
-    <AssemblyName>FolhaPagamentosSimplesWinForms</AssemblyName>
+    <RootNamespace>PIM_Teste</RootNamespace>
+    <AssemblyName>PIM Teste</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,7 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="SalarioCalculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

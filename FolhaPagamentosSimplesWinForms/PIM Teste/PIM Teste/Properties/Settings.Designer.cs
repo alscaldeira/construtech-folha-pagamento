@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FolhaPagamentosSimplesWinForms.Properties
+namespace PIM_Teste.Properties
 {
 
 
